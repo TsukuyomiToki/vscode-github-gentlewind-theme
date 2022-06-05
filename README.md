@@ -8,6 +8,6 @@ Install from VSIX: /releases/theme-foo.bar.vsix
 
 # SCREENSHOT
 
-![](screenshot.png)
+![](extension/screenshot.png)
 
 20220605
