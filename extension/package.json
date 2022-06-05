@@ -1,0 +1,36 @@
+{
+	"name": "github-gentle-wind-theme",
+	"displayName": "GitHub Gentle-wind Theme",
+	"description": "A theme modified from GitHub theme",
+	"version": "0.0.0",
+	"publisher": "月読時",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TsukuyomiToki/vscode-github-gentle-wind-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/TsukuyomiToki/vscode-github-gentle-wind-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "GitHub Gentle-wind",
+				"uiTheme": "vs",
+				"path": "./themes/theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"__metadata": {
+		"installedTimestamp": 1654430006590
+	}
+}
